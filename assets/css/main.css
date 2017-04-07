@@ -3877,8 +3877,9 @@ a.toglink-screenshot {
 
 .toglink-logo {
 	margin-bottom: 15px;
-	height: 24px;
-	width: 160px;
+	height: 36px;
+	width: auto;
+	background-color: white; 
 	border-radius: 0px;
 }
 
